@@ -1,5 +1,5 @@
 #Title
-Aging of biomass burning  aerosols over West Africa
+Aircraft biomass burning  aerosols over West Africa
 
 #Author
 Gerard Capes
