@@ -1,8 +1,10 @@
 #Title
-Aircraft biomass burning  aerosols over West Africa
+<<<<<<< HEAD
+Aircraft measurements and simulations of biomass burning  aerosols over West Africa
 
 #Author
 Gerard Capes
+John Smith
 
 #Introduction
 We present  aircraft  measurements of BBOA over West  Africa
@@ -13,3 +15,6 @@ Jones et al (1988) conducted several studies in this region.
 Put continental-scale measurements have't previously been made.
 
 A large uncetainty in modelng BBOA is the extent in which measurement in the literature can be applied at a regional scale.
+
+#Simulations
+We smulate the evolution of particle sizes.
