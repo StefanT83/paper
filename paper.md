@@ -24,3 +24,6 @@ We compared our measurements cf Smit et al 2002.
 
 #Results
 This is our finding.
+
+#Figures
+Figures go in their own section in draft papers.
