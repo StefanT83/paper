@@ -8,3 +8,6 @@ Gerard Capes
 We present  aircraft  measurements of BBOA over West  Africa
 
 Particle size was measured using PCASP (Bloggset al 2004).
+
+Jones et al (1988) conducted several studies in this region.
+Put continental-scale measurements have't previously been made.
