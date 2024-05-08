@@ -18,3 +18,6 @@ A large uncetainty in modelng BBOA is the extent in which measurement in the lit
 
 #Simulations
 We smulate the evolution of particle sizes.
+
+#Methodology
+We compared our measurements cf Smit et al 2002.
